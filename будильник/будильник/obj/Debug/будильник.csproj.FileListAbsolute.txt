@@ -1,0 +1,12 @@
+D:\projects\C#\будильник\будильник\bin\Debug\будильник.exe.config
+D:\projects\C#\будильник\будильник\bin\Debug\будильник.exe
+D:\projects\C#\будильник\будильник\bin\Debug\будильник.pdb
+D:\projects\C#\будильник\будильник\obj\Debug\будильник.csproj.AssemblyReference.cache
+D:\projects\C#\будильник\будильник\obj\Debug\будильник.Form1.resources
+D:\projects\C#\будильник\будильник\obj\Debug\будильник.Properties.Resources.resources
+D:\projects\C#\будильник\будильник\obj\Debug\будильник.csproj.GenerateResource.cache
+D:\projects\C#\будильник\будильник\obj\Debug\будильник.csproj.CoreCompileInputs.cache
+D:\projects\C#\будильник\будильник\obj\Debug\будильник.exe
+D:\projects\C#\будильник\будильник\obj\Debug\будильник.pdb
+D:\projects\C#\будильник\будильник\obj\Debug\Interop.WMPLib.dll
+D:\projects\C#\будильник\будильник\obj\Debug\будильник.csproj.ResolveComReference.cache
