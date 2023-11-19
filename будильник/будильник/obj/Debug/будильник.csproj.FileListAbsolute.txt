@@ -10,3 +10,4 @@ D:\projects\C#\будильник\будильник\obj\Debug\будильни�
 D:\projects\C#\будильник\будильник\obj\Debug\будильник.pdb
 D:\projects\C#\будильник\будильник\obj\Debug\Interop.WMPLib.dll
 D:\projects\C#\будильник\будильник\obj\Debug\будильник.csproj.ResolveComReference.cache
+D:\projects\C#\будильник\будильник\obj\Debug\будильник.Form2.resources
